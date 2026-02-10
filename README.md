@@ -7,6 +7,16 @@ A full-stack web application for medical X-ray image edge detection using classi
 ![React](https://img.shields.io/badge/react-18.x-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-green)
 
+## Website Preview
+
+### Home Page
+![Home Page](images/xray_upload.png)
+
+### Edge Detection Output
+![Fuzzy Result](images/results_fuzzy.png)
+![Canny Result](images/results_canny.png)
+
+
 ## Features
 
 ### Core Functionality
@@ -324,3 +334,4 @@ This implementation is based on the research paper:
 *Ali Sajae Mannaa*  
 Advanced Engineering Research (Rostov-on-Don), 2024;24(3):293–300  
 DOI: [10.23947/2687-1653-2024-24-3-293-300](https://doi.org/10.23947/2687-1653-2024-24-3-293-300)
+
